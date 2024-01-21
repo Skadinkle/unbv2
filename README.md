@@ -1,3 +1,4 @@
-# UBv2 Archive
-This is a recoding of UBv2, a simple game site made by simple people.
-The .zip at the top contains the original version.
+# UBv2: The Remake
+This is a remade version of UBv2 when I still owned it.
+<br><br>
+Now it is someone else's burden to bare.
