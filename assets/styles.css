@@ -94,6 +94,7 @@ label #cancel {
 }
 .main a {
 	color: #0000ff;
+	cursor: pointer;
 	transition: 0.4s;
 }
 .main p {
